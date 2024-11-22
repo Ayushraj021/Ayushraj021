@@ -1,6 +1,3 @@
-Here’s the updated GitHub profile README without Java, C, Python, and JavaScript:
-
-```markdown
 <h1 align="center">Hi 👋, I'm Ayush Raj</h1>
 <h3 align="center">A Dedicated DevOps Engineer and Cloud Computing Specialist from India</h3>
 
@@ -53,6 +50,12 @@ Here’s the updated GitHub profile README without Java, C, Python, and JavaScri
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  </a>
 </p>
 
 <p>
@@ -66,4 +69,3 @@ Here’s the updated GitHub profile README without Java, C, Python, and JavaScri
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushraj021&" alt="Ayushraj021" />
 </p>
-```
