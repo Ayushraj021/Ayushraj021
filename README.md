@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ayush-raj-219787230" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-raj-219787230" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/ayushraj021" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushraj021" height="30" width="40" />
   </a>
 </p>
 
